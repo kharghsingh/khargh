@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kharghsingh.github.io/khargh/sitemap.xml
